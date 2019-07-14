@@ -1,3 +1,5 @@
+#Albin
+
 import pgzrun
 
 WIDTH = 144
@@ -10,3 +12,7 @@ def draw():
 
 
 pgzrun.go()
+
+#Filip
+
+while True
