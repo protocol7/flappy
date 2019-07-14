@@ -13,6 +13,6 @@ def draw():
 
 pgzrun.go()
 
-#Filip
+#Filip & Albin
 
 while True
