@@ -10,9 +10,27 @@ player = Actor("bird", (20, 128))
 def draw():
     player.draw()
 
-
-pgzrun.go()
-
 #Filip & Albin
 
 while True
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+pgzrun.go()
